@@ -10,10 +10,11 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "vue": "^2.5.17",
+    "vue": "^2.5.18",
     "vue-class-component": "^6.0.0",
-    "vue-property-decorator": "^7.0.0",
+    "vue-property-decorator": "^7.2.0",
     "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.5.21",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
@@ -28,7 +29,6 @@
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
     "ts-jest": "^23.0.0",
-    "typescript": "^3.0.0",
-    "vue-template-compiler": "^2.5.17"
+    "typescript": "^3.0.0"
   }
 }
